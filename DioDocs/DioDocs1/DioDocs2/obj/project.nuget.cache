@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0qqThcOm5NSrTiSblnsOzb8hLhgcB305bOVnIMuez+yez6HeSaStH0Vybc+YBDK+AVFTpCBP7ShW+iNDPzu7A==",
+  "success": true,
+  "projectFilePath": "C:\\lowgain\\DoiDocsSample\\DioDocs\\DioDocs1\\DioDocs2\\DioDocs2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taten\\.nuget\\packages\\grapecity.diodocs.barcode.ja\\4.1.0.660\\grapecity.diodocs.barcode.ja.4.1.0.660.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\grapecity.diodocs.common.ja\\4.1.0.660\\grapecity.diodocs.common.ja.4.1.0.660.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\grapecity.diodocs.datavisualization.chart.ja\\13.0.36\\grapecity.diodocs.datavisualization.chart.ja.13.0.36.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\grapecity.diodocs.excel.ja\\4.1.1\\grapecity.diodocs.excel.ja.4.1.1.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\grapecity.diodocs.imaging.ja\\4.1.0.660\\grapecity.diodocs.imaging.ja.4.1.0.660.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\grapecity.diodocs.pdf.ja\\4.1.0.660\\grapecity.diodocs.pdf.ja.4.1.0.660.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\portable.bouncycastle\\1.8.2\\portable.bouncycastle.1.8.2.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\taten\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
